@@ -1,0 +1,5 @@
+{
+  "name": "智能隐私打码 (Qwen版)",
+  "description": "基于阿里 Qwen-VL (ModelScope) 的智能图片打码工具。专为中文场景优化，自动检测并遮盖截图中的敏感信息。",
+  "requestFramePermissions": []
+}
